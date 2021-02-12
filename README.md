@@ -4,9 +4,13 @@ Implmentation of the supervised learning algorithm K-nearest neighbors in the Ju
 <table>
   <tbody>
     <tr>
-      <td>Height (cm)</td> <td>Weight (kg)</td> <td>Gender</td>
-      <td>86</td> <td>74</td> <td>M</td>
-      <td>60</td> <td>50</td> <td>F</td>
+      <td>Weight (cm)</td> <td>Height (kg)</td> <td>Gender</td>
+    </tr>
+    <tr>
+      <td>70.3518798786343</td> <td>198.903011944154</td> <td>Male</td>
+    </tr>
+    <tr>
+      <td>58.9107320370127	</td> <td>102.088326367840</td> <td>Female</td>
     </tr>
   </tbody>
 </table>
