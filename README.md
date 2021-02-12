@@ -4,7 +4,7 @@ Implmentation of the supervised learning algorithm K-nearest neighbors in the Ju
 <table>
   <tbody>
     <tr>
-      <td>Weight (cm)</td> <td>Height (kg)</td> <td>Gender</td>
+      <td>Weight (kg)</td> <td>Height (cm)</td> <td>Gender</td>
     </tr>
     <tr>
       <td>70.3518798786343</td> <td>198.903011944154</td> <td>Male</td>
